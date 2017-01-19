@@ -265,6 +265,18 @@ Wen Jiang, *Eli Papa*, Hans Fischer, Sawitri Mardyani, Warren C.W. Chan.
 ### Posters
 
 `2016`
+Eliseo Papa, Andrea Pierleoni, Gautier Koscielny, Naruemon Pratanwanich, Oliver Stegle, Jeffrey Barrett, Ian Dunham, and the Open Targets Team
+Open Targets : a platform for therapeutic target identification and validation
+**MASAMB 2016**
+
+
+`2016`
+Miguel Pignatelli, Denise Carvalho-Silva, Jennifer Cham, Luca Fumis, Samiul Hasan,
+Nikiforos Karamanis, Gautier Koscielny , Michael Maguire, William Newell, Eliseo Papa, Andrea Pierleoni, Francis Rowland, Sirarat Sarntivijal, Oliver Stegle, Jessica Vamathevan, Ewan Birney, Jeffrey Barrett, Ian Dunham and the Open Targets team  
+Target Validation Platform: A New Drug Target Identification and Prioritisation Web Platform
+**Genome informatics 2016**
+
+`2016`
 Monika Fischer, Mohamad Bittar, Eliseo Papa, Zain Kassam, Mark Smith
 Can you cause IBD with fecal transplantation?: 31-patient case series of fecal transplantation using stool from a donor who later developed Crohn's disease
 
