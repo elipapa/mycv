@@ -1,70 +1,302 @@
 ---
-layout: default
+layout: cv
+title: Eliseo Papa CV
 ---
+# Eliseo Papa
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
+<div id="webaddress">
+<script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!08{)rt{y+xx=l;=+;" +
+"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+"\"(4),9\\\"\\\\}ubwwhh)0z& 5lR)20\\\\0P\\\\WIy[GYEW_]7W01\\\\\\\\22\\\\0s\\" +
+"\\DBFMtO\\\\\\\\SG06\\\\0N\\\\JGBN02\\\\0C\\\\x#opms58`Jvpe<by` gyIkwiugom;" +
+"gno\\\\\\\\21\\\\05\\\\02\\\\\\\\32\\\\07\\\\02\\\\\\\\$[0J02\\\\\\\\20\\\\" +
+"06\\\\00\\\\\\\\33\\\\0R\\\\20\\\\0L\\\\FM03\\\\00\\\\00\\\\\\\\16\\\\06\\\\"+
+"03\\\\\\\\00\\\\02\\\\03\\\\\\\\20\\\\0H\\\\21\\\\0n\\\\\\\\\\\\06\\\\07\\\\"+
+"01\\\\\\\\24\\\\03\\\\00\\\\\\\\:0\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
+"hx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)yy)4+(9i>f({i+)i+l;i<0;i=r(foh;gten.l" +
+"=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\")"                        ;
+while(x=eval(x));
+//-->
+//]]> </script>
 
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
-
-### what does that mean?
-
-Write your CV like this...
-
-<img src="img/mdown.png" style="width: 50%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
-
-<img src="img/output.png" style="width: 50%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-
-
-## Usage
-
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
-
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
-
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
-
-## Using Github Pages to publish it online
-
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
-
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
-
-## Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-
-## Print the PDF
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
-
-### is this the only style available?
-
-For the moment, yes.
-The included CSS renders CV in a style inspired by [kjhealy's vita template](https://github.com/kjhealy/kjh-vita), but any styling is possible. Contributions and forks are welcome!
+| <a href="http://elipapa.github.io">elipapa.github.io</a>
+| <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
+</div>
 
 
-### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+### Interested in
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+Opportunities at the intersection of computing  and medicine.
 
-### License
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+## Education
 
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+`2013`
+__MBBS, Imperial College London__
+Medicine & Surgery
+
+`2006-2012`
+__Ph.D, Harvard Medical School/Massachusets Institute of Technology__
+
+- Medical Engineering & Medical Physics, [Harvard/MIT HST Institute](http://hst.mit.edu)
+- Thesis: [High-throughput experimental and computational tools for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)
+
+`2008`
+__Sc.M., Massachusets Institute of Technology__
+Mechanical Engineering
+
+
+`2005`
+__BASc (Honors), University of Toronto__
+Engineering Science, Biomedical Option
+
+
+## Professional Experience
+
+`2015-present`
+__Researcher, [OpenBiome](www.openbiome.org) / [NextBiome](www.nextbiome.com)__ Cambridge,MA (remote)
+
+- Statistical analysis of microbiome communities during fecal transplant delivery by capsule
+- Project consulting for large pharma organization to analyze prevalence of drug resistant genes in the general population
+
+
+`2014-2015`
+__Chief Scientist, Klappo,__ London,UK
+
+- tech startup focused on semantic technologies, cognitive computing, machine learning to craft context-aware food recommendations.
+- management team responsible for the business plan and investor relations
+- medical and scientific direction
+
+
+`2014`
+__F2 doctor, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Hillingdon Hospital, Uxbridge, Middlesex, UK
+
+- General Practice
+
+`2013-2014`
+__F1 doctor, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Hillingdon Hospital, Uxbridge, Middlesex, UK
+
+- Care of Elderly, orthopaedic outreach
+- Anaesthetics & ITU
+- Gastroenterology & Acute medical take
+
+
+`2013`
+__Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
+
+- Integrative analysis of nitrogen stress response in e.coli
+- Chip-seq, RNAseq and transcriptomics data
+
+`2012`
+__Consultant, SERES Health,__ Cambridge, MA
+
+- Computationally designed and predicted fitness of synthetic microbial communities intended for therapeutic transplantation.
+- Provided strategic input and scientific advice.
+
+
+`2009-2013`
+__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
+
+- Machine learning for the analysis of Human Microbiome Project genomics data
+- Microbial evolution, phylogenetics
+
+`2009`
+__Founder, Enumeral diagnostics,__ Cambridge, MA
+
+- MIT $100K Entrepeneurship competition semifinalist
+- Developed high-throughput data acquisition and analysis platforms, scaling the technology to production levels.
+- Contributed to the development of the microfluidic platform at the core of the company intellectual property
+
+`2006-2009`
+__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
+
+- Affinity and isotype mapping of antibody secretion in individual primary B cells.
+- Development of computational and statistical tools to monitor and predict evolution of immune responses
+- Murine antibody cloning and expression; fluorescence tagging
+- Real time fluorescence microcopy; advanced image analysis
+
+
+`2004-2005`
+__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
+
+- Nanoparticles cytotoxicity
+- Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
+- Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
+
+
+`2003`
+__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
+
+- Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
+- Morphological, mechanical and functional characterization of polyurethane scaffolds.
+
+
+
+## Fellowships & Awards
+
+`2012`
+Bursary recipient, Exploring Human Host-Microbiome Interactions in Health and Disease, Wellcome Trust Scientific Conferences
+
+`2010-2011`
+Postgraduate D Scholarship, National Science Engineering Research Council, Canada
+
+`2008-2009`
+Poitras pre-doctoral fellowship
+
+`2007`
+Martino Scholar, Harvard/MIT Health Science Tech. Inst.
+
+`2008`
+Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science Tech. Inst.
+
+`2008`
+Competition Semifinalist, MIT 100k Business Plan
+
+`2005-2008`
+Postgraduate M Scholarship, National Science Engineering Research Council, Canada
+
+`2004`
+University of Toronto Life Sciences Award, University of Toronto
+
+`2004`
+NSERC Summer Research Award, National Science Engineering Research Council, Canada
+
+`2003`
+OUA Academic Achievement Award, Ontario, Canada
+
+`2003`
+\#2 Canadian Army University Course Undergrad Scholarship,University of Toronto
+
+`2002-04`
+Silver T – academic athletic excellence, University of Toronto
+
+`2001`
+Ontario Scholar, Government of Ontario, Canada
+
+
+## Computing skills
+
+Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
+R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
+Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
+Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.
+Familiar with agile and test-driven development.
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`2016`
+Monika Fisher
+[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http)
+ **Gut Microbes**
+
+`2012`
+*Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.
+[Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039242)
+**PLoS ONE** 2012;7(6):e39242.
+
+`2011`
+Rhiannon White, Sachiko Miyata, *Eliseo Papa*, Eric Spooner, Kleoniki Gounaris, Murray Selkirk, Katerina Artavanis-Tsakonas.
+[Characterisation of the Trichinella spiralis deubiquitinating enzyme, TsUCH37, an evolutionarily conserved proteasome interaction partner.](http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001340)
+**PLoS Negl Trop Dis.** 2011 Oct;5(10):e1340.
+
+`2011`
+Katerina Artavanis-Tsakonas, Pia V Kasperkovitz, *Eliseo Papa*, Michael L Cardenas, Nida S Khan, Annemarthe G Van der Veen, Hidde L Ploegh and Jatin M Vyas.
+[The Tetraspanin CD82 is Specifically Recruited to Fungal and Bacterial Phagosomes Prior to Acidification.](http://iai.asm.org/content/79/3/1098.long)
+**Infection and Immunity** 2011 79(3):1098-106\
+
+`2009`
+Adebola Ogunniyi, Craig Story, *Eliseo Papa*, Eduardo Guillen, J. Christopher Love.
+[Screening Individual Hybridomas by Microengraving to Discover Monoclonal Antibodies.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4034573/)
+**Nature Protocols** 2009 4(5):767-82
+
+`2009`
+Jehnna L. Ronan, Craig Story, *Eliseo Papa*, J. Christopher Love.
+[Optimization of the surfaces used to capture antibodies from single hybridomas reduces the time required for microengraving.](http://www.sciencedirect.com/science/article/pii/S0022175908003268)
+**Journal of Immunological Methods** 2009, 340(2):164-9\
+
+`2008`
+Craig Story\*, *Eliseo Papa\* (co-author)*, Chih-Chi Andrew Hu, Jehnna L Ronan, Hidde L Ploegh, J.Christopher Love.
+[Profiling Antibody Responses by Multiparametric Analysis of Single B Cells.](http://www.pnas.org/content/105/46/17902.full)
+**PNAS** 2008 105(46):17902-7
+
+`2005`
+Hans Fischer, *Eli Papa*, Lichuan Liu, K. Sandy Pang, Warren C. W. Chan.
+[Preliminary Results: Exploring the Interactions of Quantum Dots with Whole Blood Components.](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=877794)
+**SPIE Proceedings** 2005 5969,54
+
+`2004`
+Wen Jiang, *Eli Papa*, Hans Fischer, Sawitri Mardyani, Warren C.W. Chan.
+[Semiconductor quantum dots as contrast agents for whole animal imaging.](http://www.cell.com/trends/biotechnology/abstract/S0167-7799(04)00299-9?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0167779904002999%3Fshowall%3Dtrue)
+**Trends in Biotechnology** 2004 22:12
+
+
+### Posters
+
+`2016`
+Monika Fischer, Mohamad Bittar, Eliseo Papa, Zain Kassam, Mark Smith
+Can you cause IBD with fecal transplantation?: 31-patient case series of fecal transplantation using stool from a donor who later developed Crohn's disease
+
+
+`2016`
+Jessica Allegretti, Monika Fischer, Eliseo Papa, Ryan Elliot, M. Jane Klank, Gina Mendolia, Elaine Vo, Zain Kassam, Mark Smith
+Fecal Microbiota Transplantation Delivered via Oral Capsules Achieves Microbial Engraftment Similar to Traditional
+Delivery Modalities: Safety, Efficacy and Engraftment Results From a Multi-Center Cluster Randomized Dose-Finding Study
+*Digestive Disease Week 2016*
+
+`2012`
+White RR, Morrow M, Miyata S, Papa E, Spooner E, Selkirk M, Gounaris K, Das C, Artavanis-Tsakonas K
+Characterisation of the Trichinella Spiralis Deubiquitinating Enzyme, TsUCH37
+*Molecular and Cellular Biology of Helminth Parasites VII*
+
+`2012`
+Eliseo Papa, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah P. Preheim, Dirk Gevers, Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.
+[Diagnosing IBD from the fecal microbiome](http://eliseopapa.org/downloads/documents/ibdML-poster.pdf)
+*Exploring Human Host-Microbiome Interactions in Health and Disease, Wellcome Trust Scientific Conferences*
+
+`2008`
+High-Throughput and High-Content Screening of Antibody Responses from Single Cells
+*AIChE annual meeting, Nanoscale Science Engineering Forum*
+
+`2008`
+Applying Ligands to B Cell Receptors by Microfluidics
+*AIChE annual meeting, Engineering Fundamentals in Life Sciences*
+
+`2008`
+Microengraving for high-throughput affinity mapping of humoral responses
+*Harvard/MIT HST Forum*
+
+`2008`
+Multi-variate profiling of B cell immune responses
+*Novartis Vaccine Symposium*
+
+
+### Patents
+
+`2009`
+Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279
+
+
+
+## Volunteering
+
+`2005`
+__Field Operative, AISPO, San Raffaele del Monte Tabor Foundation.__ Milan, Italy
+
+- Streamlined diagnostic routines, Kampala’s Hospital & Gulu’s outpost, Uganda
+- Consulted regarding the infrastructure, human resources and logistics of the Kampala’s hospital
+
+`2004`
+__Engineers Without Borders.__
+
+- University of Toronto Conference delegate
