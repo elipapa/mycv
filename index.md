@@ -59,8 +59,14 @@ Engineering Science, Biomedical Option
 
 ## Professional Experience
 
+`2016-present`
+__Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
+
+- [Open Targets](http://www.opentargets.org) lead
+- Development and devops of [Open Targets Platform](https://www.targetvalidation.org)
+
 `2015-2016`
-__Researcher, [OpenBiome](www.openbiome.org) / [Finch Therapeutics](www.finchtherapeutics.com)__ Cambridge,MA (remote)
+__Researcher, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
 
 - Statistical analysis of microbiome communities during fecal transplant delivery by capsule
 - Project consulting for large pharma organization to analyze prevalence of drug resistant genes in the general population
@@ -182,10 +188,12 @@ Ontario Scholar, Government of Ontario, Canada
 
 ## Computing skills
 
-Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
+Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
 R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
 Web development - HTML/CSS/JS, D3, dc.js, crossfilter.  
-Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.  
+Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.
+Cloud computing - AWS, Google cloud  
+DevOps - Kubernetes, Ansible  
 Familiar with agile and test-driven development.  
 
 
