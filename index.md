@@ -32,7 +32,7 @@ while(x=eval(x));
 
 ### Interested in
 
-Opportunities at the intersection of computing  and medicine.
+Opportunities at the intersection of data science, artificial intelligence and medicine.
 
 
 ## Education
@@ -59,8 +59,8 @@ Engineering Science, Biomedical Option
 
 ## Professional Experience
 
-`2015-present`
-__Researcher, [OpenBiome](www.openbiome.org) / [NextBiome](www.nextbiome.com)__ Cambridge,MA (remote)
+`2015-2016`
+__Researcher, [OpenBiome](www.openbiome.org) / [Finch Therapeutics](www.finchtherapeutics.com)__ Cambridge,MA (remote)
 
 - Statistical analysis of microbiome communities during fecal transplant delivery by capsule
 - Project consulting for large pharma organization to analyze prevalence of drug resistant genes in the general population
@@ -75,12 +75,12 @@ __Chief Scientist, Klappo,__ London,UK
 
 
 `2014`
-__F2 doctor, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Hillingdon Hospital, Uxbridge, Middlesex, UK
+__Doctor, Senior house officer, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Ealing Hospital, London, UK
 
 - General Practice
 
 `2013-2014`
-__F1 doctor, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Hillingdon Hospital, Uxbridge, Middlesex, UK
+__Doctor, House officer, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Hillingdon Hospital, Uxbridge, Middlesex, UK
 
 - Care of Elderly, orthopaedic outreach
 - Anaesthetics & ITU
@@ -94,7 +94,7 @@ __Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
 - Chip-seq, RNAseq and transcriptomics data
 
 `2012`
-__Consultant, SERES Health,__ Cambridge, MA
+__Consultant, SERES Health,__ Cambridge, MA (remote)
 
 - Computationally designed and predicted fitness of synthetic microbial communities intended for therapeutic transplantation.
 - Provided strategic input and scientific advice.
@@ -182,11 +182,11 @@ Ontario Scholar, Government of Ontario, Canada
 
 ## Computing skills
 
-Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
-R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
-Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
-Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.
-Familiar with agile and test-driven development.
+Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
+R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
+Web development - HTML/CSS/JS, D3, dc.js, crossfilter.  
+Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.  
+Familiar with agile and test-driven development.  
 
 
 ## Publications
@@ -194,6 +194,19 @@ Familiar with agile and test-driven development.
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
+
+`2017`
+Koscielny G, An P, Carvalho-Silva D, Cham JA, Fumis L, Gasparyan R, Hasan S,
+Karamanis N, Maguire M, *Papa E*, Pierleoni A, Pignatelli M, Platt T, Rowland F,
+Wankar P, Bento AP, Burdett T, Fabregat A, Forbes S, Gaulton A, Gonzalez CY,
+Hermjakob H, Hersey A, Jupe S, Kafkas Ş, Keays M, Leroy C, Lopez FJ, Magarinos
+MP, Malone J, McEntyre J, Munoz-Pomer Fuentes A, O'Donovan C, Papatheodorou I,
+Parkinson H, Palka B, Paschall J, Petryszak R, Pratanwanich N, Sarntivijal S,
+Saunders G, Sidiropoulos K, Smith T, Sondka Z, Stegle O, Tang YA, Turner E,
+Vaughan B, Vrousgou O, Watkins X, Martin MJ, Sanseau P, Vamathevan J, Birney E,
+Barrett J, Dunham I. [Open Targets: a platform for therapeutic target identification and validation.](https://www.ncbi.nlm.nih.gov/pubmed/27899665) **Nucleic Acids Res**. 2017 Jan 4;45(D1):D985-D994.
+doi: 10.1093/nar/gkw1055. PubMed PMID: 27899665; PubMed Central PMCID:
+PMC5210543.
 
 `2016`
 Monika Fisher
