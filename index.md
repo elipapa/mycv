@@ -216,10 +216,11 @@ Barrett J, Dunham I. [Open Targets: a platform for therapeutic target identifica
 doi: 10.1093/nar/gkw1055. PubMed PMID: 27899665; PubMed Central PMCID:
 PMC5210543.
 
-`2016`
-Monika Fisher
-[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http)
- **Gut Microbes**
+`2017`
+Fischer M, Bittar M, *Papa E*, Kassam Z, Smith M.
+[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
+ **Gut Microbes** 2017 Jan 19:0. doi: 10.1080/19490976.2017.1283469
+
 
 `2012`
 *Eliseo Papa*, Michael Docktor, Christopher Smillie, Sarah Weber, Sarah Pacocha Preheim,Dirk Gevers,Georgia Giannoukos, Dawn Ciulla, Diana Tabbaa, Jay Ingram, David B Schauer, Doyle V Ward, Joshua R Korzenik, Ramnik J Xavier, Athos Bousvaros, Eric J Alm.
@@ -267,19 +268,19 @@ Wen Jiang, *Eli Papa*, Hans Fischer, Sawitri Mardyani, Warren C.W. Chan.
 `2016`
 Eliseo Papa, Andrea Pierleoni, Gautier Koscielny, Naruemon Pratanwanich, Oliver Stegle, Jeffrey Barrett, Ian Dunham, and the Open Targets Team
 Open Targets : a platform for therapeutic target identification and validation
-**MASAMB 2016**
+*MASAMB 2016*
 
 
 `2016`
 Miguel Pignatelli, Denise Carvalho-Silva, Jennifer Cham, Luca Fumis, Samiul Hasan,
 Nikiforos Karamanis, Gautier Koscielny , Michael Maguire, William Newell, Eliseo Papa, Andrea Pierleoni, Francis Rowland, Sirarat Sarntivijal, Oliver Stegle, Jessica Vamathevan, Ewan Birney, Jeffrey Barrett, Ian Dunham and the Open Targets team  
 Target Validation Platform: A New Drug Target Identification and Prioritisation Web Platform
-**Genome informatics 2016**
+*Genome informatics 2016*
 
 `2016`
 Monika Fischer, Mohamad Bittar, Eliseo Papa, Zain Kassam, Mark Smith
 Can you cause IBD with fecal transplantation?: 31-patient case series of fecal transplantation using stool from a donor who later developed Crohn's disease
-
+*Digestive Disease Week 2016*
 
 `2016`
 Jessica Allegretti, Monika Fischer, Eliseo Papa, Ryan Elliot, M. Jane Klank, Gina Mendolia, Elaine Vo, Zain Kassam, Mark Smith
