@@ -34,6 +34,20 @@ while(x=eval(x));
 
 Opportunities at the intersection of data science, artificial intelligence and medicine.
 
+### Experienced in
+
+Computational biology, machine learning, sequencing pipelines (16S, NGS), human microbiome, medicine, immunology.
+
+### Computing stack
+
+Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
+R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
+Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs. 
+Linux - Git, bash/zsh, sge/torque/pbs, docker, CI(travis/wercker), vagrant, ansible.  
+Elasticsearch, SQL, Hadoop
+Familiar with agile and test-driven development.
+
+Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes)
 
 ## Education
 
