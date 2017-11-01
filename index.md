@@ -38,16 +38,17 @@ Opportunities at the intersection of data science, artificial intelligence and m
 
 Computational biology, machine learning, sequencing pipelines (16S, NGS), human microbiome, medicine, immunology.
 
-### Computing stack
+### Computing
 
 Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
 R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
 Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs. 
 Linux - Git, bash/zsh, sge/torque/pbs, docker, CI(travis/wercker), vagrant, ansible.  
 Elasticsearch, SQL, Hadoop
+
 Familiar with agile and test-driven development.
 
-Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes)
+Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
 
 ## Education
 
@@ -226,12 +227,13 @@ MP, Malone J, McEntyre J, Munoz-Pomer Fuentes A, O'Donovan C, Papatheodorou I,
 Parkinson H, Palka B, Paschall J, Petryszak R, Pratanwanich N, Sarntivijal S,
 Saunders G, Sidiropoulos K, Smith T, Sondka Z, Stegle O, Tang YA, Turner E,
 Vaughan B, Vrousgou O, Watkins X, Martin MJ, Sanseau P, Vamathevan J, Birney E,
-Barrett J, Dunham I. [Open Targets: a platform for therapeutic target identification and validation.](https://www.ncbi.nlm.nih.gov/pubmed/27899665) **Nucleic Acids Res**. 2017 Jan 4;45(D1):D985-D994.
+Barrett J, Dunham I.  
+[Open Targets: a platform for therapeutic target identification and validation.](https://www.ncbi.nlm.nih.gov/pubmed/27899665) **Nucleic Acids Res**. 2017 Jan 4;45(D1):D985-D994.
 doi: 10.1093/nar/gkw1055. PubMed PMID: 27899665; PubMed Central PMCID:
 PMC5210543.
 
 `2017`
-Fischer M, Bittar M, *Papa E*, Kassam Z, Smith M.
+Fischer M, Bittar M, *Papa E*, Kassam Z, Smith M.  
 [Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
  **Gut Microbes** 2017 Jan 19:0. doi: 10.1080/19490976.2017.1283469
 

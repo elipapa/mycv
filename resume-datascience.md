@@ -3,7 +3,7 @@ layout: cv
 title: Eliseo Papa - Resume
 ---
 # Eliseo Papa
-Biomedical Engineer, Computational Biologist, Clinician
+Senior data scientist and clinician working in R&D, with a background in biomedical engineering
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -33,46 +33,83 @@ while(x=eval(x));
 
 ### Experienced in
 
-Computational biology, machine learning, sequencing pipelines (16S, NGS), human microbiome, medicine, immunology.
+Machine learning, python and data engineering architecture - delivering production-grade analysis pipeline to computational biology, statistical genetics and early discovery groups.  
 
-### Computing stack
+Leading academic/industrial research collaborations, managing multi-year scientific projects, writing funding grants, leading product decisions in a software team.
 
-Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
-R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
+Analysis of clinical trial data - current and retrospective analysis up to Phase 2b
+
+Drug target identification and prioritization - Genetics, integrative and network-based approaches
+
+Sequencing analysis - QC pipelines and statistical analysis of 16S and RNA-seq experiments 
+
+Machine learning for biomarker identification - human microbiome and immune cells subpopulations
+
+Medicine - anesthesia, genetics, general medicine
+
+
+### Computing
+
+Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3. 
+Cloud ops - Docker, Kubernetes, Google Cloud, AWS  
+R - gbm, lasso, randomforest and other applied ML packages; ggplot2, knitr, shiny.  
 Web development - HTML/CSS/JS, D3, dc.js, crossfilter.  
-Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.  
-SQL, Hadoop
-Familiar with agile and test-driven development.
+Linux - Git, bash/zsh, sge/torque/pbs 
+SQL    
 
-## Education
+Worked and led teams using kanban, scrum and test-driven development practices.
 
-`2013`
-__MBBS, Imperial College London__  
-Medicine & Surgery
-
-`2012`
-__Ph.D, [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)__  
-Medical Engineering & Medical Physics
-
-`2008`
-__S.M., Massachusets Institute of Technology__  
-Mechanical Engineering
-
-`2005`
-__BASc (Honors), University of Toronto__  
-Engineering Science, Biomedical Option
-
-
-
+Contributor to open source projects: [open targets](https://github.com/opentargets), [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
 
 
 ## Work
 
+`2017-present`
+__Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
+
+
+`2016-2017`
+__Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
+
+Advanced analytics & scientific computing
+
+I employ my knowledge of machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups.  
+It follows an iterative and agile process, done in collaboration with scientist at all levels of the organization, and which requires a deep understanding of the domain as well as the technologies available. My broad background (medicine, ML, biomedical engineering) helps me to bridge these diverse skill sets and communicate across disciplines.
+
+[Open Targets](http://www.opentargets.org) liaison
+
+Working on computational biology and genomics analysis which leverage large scale human data sets with the goal of identify and prioritize new drug targets.  
+Direct interactions with Open Targets members (the Wellcome Trust Sanger Institute, the European Bioinformatics Institute, and GSK) and Biogen scientists.  
+Manage and influence the scientific program working to enhance its quality and matching the Open Targets capabilities to Biogen needs. This work has resulted in several collaborations approved and funded by Open Targets that benefit Biogen. 
+I routinely represent Biogen externally, including speaking invitations at informatics and scientific venues.
+
+Development of the [Open Targets Platform](https://www.targetvalidation.org)  
+
+I am one of the team lead, responsible to plan and manage the work of 2 Biogen and 6 external software engineers including weekly planning and engineering duties.
+I manage the long-range planning and decision-making, including creating and owning the de facto Open Targets informatics platform roadmap, and making sure the team adopts the tool and process. This has directly resulted in new features important to Biogen in 2016’s Open Targets informatics platform releases.
+
+Biogen's principal liaison for the  and [Genomics England discovery forum](https://www.genomicsengland.co.uk/working-with-industry/)
+
+Participated and contributed to the Genomics England GENE consortium together with VPs and Directors from AZ, GSK, Takeda, Abbvie, Alexion and others.
+
+
+
+
+`2015-2016`
+__Researcher, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
+
+- Statistical analysis of microbiome communities during fecal transplant delivery by capsule
+- Project consulting for large pharmaceutical to analyze prevalence of drug resistant genes in the general population
+- Retrospective analysis of Phase 2b trial results and additional microbiome sequencing to measure efficacy
+
+
+
 `2014-2015`
-__Chief Scientist, Klappo,__ London,UK
+__Chief Scientist, Klappo/um.ai,__ London,UK
 
 - Building a recommendations engine to craft context-aware suggestions for every meal.
 - Normalization and concept mapping used to organize natural language data related to food onto a structured ontology
+- Data [analysis and visualization](https://elipapa.github.io/youarewhatyoueat/)
 - Management team responsible for the business plan and investor relations
 - Medical and scientific direction
 
@@ -99,7 +136,7 @@ __Consultant, [SERES Health](http://www.flagshipventures.com/venture-capital/all
 `2009-2012`
 __Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
 
-- Supervised classification of microbiome samples from pediatric IBD patients
+- [Supervised classification of microbiome samples](http://nbviewer.jupyter.org/github/elipapa/SLiMEbook/blob/master/SLiMEbook.ipynb) from pediatric IBD patients
 - Feature extraction using ecological and phylogenetic information
 - Quality control and downstream analysis of Human Microbiome Project sequencing pipeline 
 
@@ -119,18 +156,26 @@ __Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
 - Created a cluster pipeline to automate image analysis of fluorescence microscopy data
 
 
-`2004-2005`
-__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
 
-- Investigation into nanoparticles cytotoxicity
-- Real time fluorescence microscopy and single molecule spectroscopy.
+## Education
 
+`2013`
+__MBBS, Imperial College London__  
+Medicine & Surgery
 
-`2003`
-__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
+`2012`
+__Ph.D, [Harvard/MIT Health Science & Technology Institute](http://hst.mit.edu)__  
+Medical Engineering & Medical Physics
 
-- Morphological, mechanical and functional characterization of polyurethane scaffolds for tissue engineering applications.
+- Thesis: [Applied machine learning for exploring immunity and the microbiome](https://speakerdeck.com/u/elipapa/p/phd-defense-talk-1)
 
+`2008`
+__S.M., Massachusets Institute of Technology__  
+Mechanical Engineering
+
+`2005`
+__BASc (Honors), University of Toronto__  
+Engineering Science, Biomedical Option
 
 
 ## Publications
@@ -139,41 +184,48 @@ __Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
 
 ### Journals
 
+`2017`
+Koscielny G, An P, Carvalho-Silva D, Cham JA, Fumis L, Gasparyan R, Hasan S,
+Karamanis N, Maguire M, **Papa E**, Pierleoni A, Pignatelli M, et al.  
+[Open Targets: a platform for therapeutic target identification and validation.](https://www.ncbi.nlm.nih.gov/pubmed/27899665)  
+*Nucleic Acids Res*. 2017 Jan 4;45(D1):D985-D994.
+doi: 10.1093/nar/gkw1055. PMC5210543.
+
+`2017`
+Fischer M, Bittar M, **Papa E**, Kassam Z, Smith M.  
+[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
+ *Gut Microbes* 2017 Jan 19:0. doi: 10.1080/19490976.2017.1283469
+
+
 `2012`
-*Papa E*, Docktor M, Smillie C, Weber S, Preheim SP, Gevers D, Giannoukos G, Ciulla D, Tabbaa D, Ingram J, Schauer DB, Ward DV, Korzenik JR, Xavier RJ, Bousvaros A, Alm EJ.  
+**Papa E**, Docktor M, Smillie C, Weber S, Preheim SP, Gevers D, Giannoukos G, Ciulla D, Tabbaa D, Ingram J, Schauer DB, Ward DV, Korzenik JR, Xavier RJ, Bousvaros A, Alm EJ.  
 [Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039242)  
-**PLoS ONE** 2012;7(6):e39242.
+*PLoS ONE* 2012;7(6):e39242.
 
 `2011`
-White R, Miyata S, *Papa E*, Spooner E, Gounaris K, Selkirk M, Artavanis-Tsakonas K.  
+White R, Miyata S, **Papa E**, Spooner E, Gounaris K, Selkirk M, Artavanis-Tsakonas K.  
 Characterisation of the Trichinella spiralis deubiquitinating enzyme, TsUCH37, an evolutionarily conserved proteasome interaction partner.  
-**PLoS Negl Trop Dis.** 2011 Oct;5(10):e1340.
+*PLoS Negl Trop Dis.* 2011 Oct;5(10):e1340.
 
 `2011`
-Artavanis-Tsakonas K, Kasperkovitz PV, *Papa E*, Cardenas ML, Khan NS, Van der Veen AG, Ploegh HL, Vyas JM.  
+Artavanis-Tsakonas K, Kasperkovitz PV, **Papa E**, Cardenas ML, Khan NS, Van der Veen AG, Ploegh HL, Vyas JM.  
 The Tetraspanin CD82 is Specifically Recruited to Fungal and Bacterial Phagosomes Prior to Acidification.  
-**Infection and Immunity** 2011 79(3):1098-106\
+*Infection and Immunity* 2011 79(3):1098-106\
 
 `2009`
-Adebola Ogunniyi A, Craig Story CM, *Papa E*, Guillen E, Love JC.  
+Adebola Ogunniyi A, Craig Story CM, **Papa E**, Guillen E, Love JC.  
 Screening Individual Hybridomas by Microengraving to Discover Monoclonal Antibodies.  
-**Nature Protocols*** 2009 4(5):767-82
+*Nature Protocols* 2009 4(5):767-82
 
 `2009`
-Ronan JL, Story CM, *Papa E*, Love JC.
+Ronan JL, Story CM, **Papa E**, Love JC.
 Optimization of the surfaces used to capture antibodies from single hybridomas reduces the time required for microengraving.  
-**Journal of Immunological Methods** 2009, 340(2):164-9\
+*Journal of Immunological Methods* 2009, 340(2):164-9\
 
 `2008`
-*Papa E◇*, Story CM◇, Hu CC, Ronan JL, Herlihy K, Ploegh HL, Love JC.  
+**Papa E**, Story CM◇, Hu CC, Ronan JL, Herlihy K, Ploegh HL, Love JC.  
 [Profiling Antibody Responses by Multiparametric Analysis of Single B Cells.](http://www.pnas.org/content/105/46/17902.full)  
-**PNAS** 2008 105(46):17902-7
-
-`2004`
-Jiang W, *Papa E*, Fischer H, Mardyani S, Chan WC.  
-Semiconductor quantum dots as contrast agents for whole animal imaging.
-**Trends in Biotechnology** 2004 22:12
-
+*PNAS* 2008 105(46):17902-7
 
 
 ### Patents
@@ -194,27 +246,17 @@ Poitras pre-doctoral fellowship, MIT
 `2007`
 Martino Scholar, Harvard/MIT Health Science & Tech. Inst.
 
-`2005-2008`
-NSERC Postgraduate M Scholarship, Canada
 
-`2004`
-NSERC Summer Research Award, Canada
 
 
 ## Awards
 
-`2012`
-Bursary recipient, Exploring Human Host-Microbiome Interactions in Health and Disease, Wellcome Trust Scientific Conferences
 
 `2008`
 Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science & Tech. Inst.
 
 `2008`
 Competition Semifinalist, MIT 100k Business Plan
-
-`2004`
-University of Toronto Life Sciences Award
-
 
 
 ## Volunteering
