@@ -72,7 +72,7 @@ __Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
 __Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
 
 Concurrent projects:  
--- Advanced analytics & scientific computing
+1) Advanced analytics & scientific computing
 
 I employ my knowledge of machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups. 
 This includes models based on RF, SVM, xgboost (scikit-learn), vowpal wabbit applied on biomarker and genomics data, as well as applied deep learning approaches (Keras, Tensorflow) applied on MEDLINE data (22m records) plus clinical trial literature and data.
