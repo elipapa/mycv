@@ -42,11 +42,12 @@ Computational biology, machine learning, sequencing pipelines (16S, NGS), human 
 
 Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
 R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
+Cloud ops - Docker, Kubernetes, Google Cloud, AWS  
 Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs. 
-Linux - Git, bash/zsh, sge/torque/pbs, docker, CI(travis/wercker), vagrant, ansible.  
+Linux - Git, bash/zsh, sge/torque/pbs, ansible.  
 Elasticsearch, SQL, Hadoop
 
-Familiar with agile and test-driven development.
+Worked and led teams using kanban, scrum and test-driven development practices.
 
 Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
 
