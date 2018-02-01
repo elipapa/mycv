@@ -74,17 +74,38 @@ Engineering Science, Biomedical Option
 
 ## Professional Experience
 
-`2016-present`
-__Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
 
-- [Open Targets](http://www.opentargets.org) lead
-- Development and devops of [Open Targets Platform](https://www.targetvalidation.org)
+`Feb2017 - now`
+__Senior Data Scientist, Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
+
+
+`Feb2016 - Feb2017`
+__Manager, Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
+
+Projects:  
+1) Advanced analytics & scientific computing
+
+- Machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups.  
+Including RF, SVM, xgboost, vowpal wabbit for on biomarker and genomics data, as well as applied deep learning approaches (Keras, Tensorflow) applied on MEDLINE data  plus clinical trial literature and data.  
+
+2) [Open Targets](http://www.opentargets.org) liaison
+
+- Computational biology and genomics analysis on large scale human data sets with the goal of identify and prioritize new drug targets.   
+- Manage interactions with Open Targets members (the Wellcome Trust Sanger Institute, the European Bioinformatics Institute, and GSK) and Biogen scientists.   
+- Manage and influence the scientific program working to enhance its quality and matching the Open Targets capabilities to Biogen needs. 
+
+3) Development of the [Open Targets Platform](https://www.targetvalidation.org) 
+
+4) Biogen's principal liaison for the  and [Genomics England discovery forum](https://www.genomicsengland.co.uk/working-with-industry/)
+
+
 
 `2015-2016`
-__Researcher, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
+__Data Scientist, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
 
 - Statistical analysis of microbiome communities during fecal transplant delivery by capsule
 - Project consulting for large pharma organization to analyze prevalence of drug resistant genes in the general population
+- Retrospective analysis of Phase 2b trial results and additional microbiome sequencing to measure efficacy
 
 
 `2014-2015`
