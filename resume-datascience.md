@@ -35,7 +35,7 @@ while(x=eval(x));
 
 Machine learning, python and data engineering architecture - delivering production-grade analysis pipeline to computational biology, statistical genetics and early discovery groups.
 
-Leading academic/industrial research collaborations, managing multi-year scientific projects, writing funding grants, leading product decisions in a software team.
+Leading academic/industrial research collaborations, communicating across disciplines, managing multi-year scientific projects, writing funding grants, leading product decisions in a software team.
 
 [Knowledge graph learning from text](https://link.opentargets.io)
 
@@ -78,24 +78,22 @@ Concurrent projects:
 
 I employ my knowledge of machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups.
 This includes models based on RF, SVM, xgboost (scikit-learn), vowpal wabbit applied on biomarker and genomics data, as well as applied deep learning approaches (Keras, Tensorflow) applied on MEDLINE data (22m records) plus clinical trial literature and data.
-Development follows an iterative and agile process, done in collaboration with scientist at all levels of the organization, and which requires a deep understanding of the domain as well as the technologies available. My broad background (medicine, ML, biomedical engineering) helps me to bridge these diverse skill sets and communicate across disciplines.
+
 
 2) [Open Targets](http://www.opentargets.org) liaison
 
 Working on computational biology and genomics analysis which leverage large scale human data sets with the goal of identify and prioritize new drug targets.
-Direct interactions with Open Targets members (the Wellcome Trust Sanger Institute, the European Bioinformatics Institute, and GSK) and Biogen scientists.
-Manage and influence the scientific program working to enhance its quality and matching the Open Targets capabilities to Biogen needs. This work has resulted in several collaborations approved and funded by Open Targets that benefit Biogen.
+Manage and influence Open Targets scientific program, working in partnership with the Wellcome Trust Sanger Institute, the European Bioinformatics Institute, and GSK. This work has resulted in several collaborations approved and funded by Open Targets that benefit Biogen.
 I routinely represent Biogen externally, including speaking invitations at informatics and scientific venues.
 
 3) Development of the [Open Targets Platform](https://www.targetvalidation.org)
 
-I am one of the team lead, responsible to plan and manage the work of 2 Biogen and 6 external software engineers including weekly planning and engineering duties.
+I am one of the team lead, responsible to plan and manage the work of 2 Biogen and 4 EBI engineers including weekly planning and engineering duties.
 I manage the long-range planning and decision-making, including creating and owning the de facto Open Targets informatics platform roadmap, and making sure the team adopts the tool and process. This has directly resulted in new features important to Biogen in 2016’s Open Targets informatics platform releases.
 
 4) Biogen's principal liaison for the  and [Genomics England discovery forum](https://www.genomicsengland.co.uk/working-with-industry/)
 
 Participated and contributed to the Genomics England GENE consortium together with VPs and Directors from AZ, GSK, Takeda, Abbvie, Alexion and others.
-
 
 
 
