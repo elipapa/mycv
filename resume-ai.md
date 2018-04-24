@@ -3,7 +3,7 @@ layout: cv
 title: Eliseo Papa - Resume
 ---
 # Eliseo Papa
-Senior data scientist and clinician working in Drug Discovery, with a background in biomedical engineering
+Senior data scientist and clinician, working on the applications of AI to Drug Discovery and Healthcare.
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -30,6 +30,7 @@ while(x=eval(x));
 | <a href="http://github.com/elipapa">GitHub</a>
 </div>
 
+### Notable achievements
 
 ### Experienced in
 
@@ -50,12 +51,12 @@ Medicine - anesthesia, genetics, general medicine
 
 ### Computing
 
-Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
+Python - jupyter, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
 Cloud ops - Docker, Kubernetes, Google Cloud, AWS
 R - gbm, lasso, randomforest and other applied ML packages; ggplot2, knitr, shiny.
 Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
 Linux - Git, bash/zsh, sge/torque/pbs
-SQL
+Elasticsearch, Clickhouse, SQL
 
 Worked and led teams using kanban, scrum and test-driven development practices.
 
@@ -87,12 +88,12 @@ I routinely represent Biogen externally, including speaking invitations at infor
 
 3) Development of the [Open Targets Platform](https://www.targetvalidation.org)
 
-I am one of the team lead, responsible to plan and manage the work of 2 Biogen and 6 external software engineers including weekly planning and engineering duties.
+I am one of the team lead, responsible to plan and manage the work of 2 Biogen and 6 EBI software engineers including weekly planning and engineering duties.
 I manage the long-range planning and decision-making, including creating and owning the de facto Open Targets informatics platform roadmap, and making sure the team adopts the tool and process. This has directly resulted in new features important to Biogen in 2016’s Open Targets informatics platform releases.
 
 4) Biogen's principal liaison for the  and [Genomics England discovery forum](https://www.genomicsengland.co.uk/working-with-industry/)
 
-Participated and contributed to the Genomics England GENE consortium together with VPs and Directors from AZ, GSK, Takeda, Abbvie, Alexion and others.
+Advised Genomics England industrial strategy as part of the GENE consortium together with VPs and Directors from AZ, GSK, Takeda, Abbvie, Alexion and others.
 
 
 
@@ -199,7 +200,7 @@ doi: 10.1093/nar/gkw1055. PMC5210543.
 
 `2017`
 Fischer M, Bittar M, **Papa E**, Kassam Z, Smith M.
-[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
+[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation?](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
  *Gut Microbes* 2017 Jan 19:0. doi: 10.1080/19490976.2017.1283469
 
 

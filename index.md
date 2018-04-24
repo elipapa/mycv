@@ -3,6 +3,7 @@ layout: cv
 title: Eliseo Papa CV
 ---
 # Eliseo Papa
+Senior data scientist and clinician working in Drug Discovery, with a background in biomedical engineering
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -26,30 +27,154 @@ while(x=eval(x));
 
 | <a href="http://elipapa.github.io">elipapa.github.io</a>
 | <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
+| <a href="http://github.com/elipapa">GitHub</a>
 </div>
 
 
-
-### Interested in
-
-Opportunities at the intersection of data science, artificial intelligence and medicine.
-
 ### Experienced in
 
-Computational biology, machine learning, sequencing pipelines (16S, NGS), human microbiome, medicine, immunology.
+Machine learning, python and data engineering architecture - delivering production-grade machine learning pipelines to computational biology, statistical genetics and early discovery groups.
+
+Leading academic/industrial research collaborations, managing multi-year scientific projects, writing funding grants, leading product decisions in a software team.
+
+Analysis of clinical trial data - current and retrospective analysis up to Phase 2b
+
+Drug target identification and prioritization - Genetics, integrative and network-based approaches
+
+Sequencing analysis - QC pipelines and statistical analysis of 16S and RNA-seq experiments
+
+Machine learning for biomarker identification - human microbiome and immune cells subpopulations
+
+Medicine - anesthesia, genetics, general medicine
+
 
 ### Computing
 
-Python - ipython,scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
-R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
-Cloud ops - Docker, Kubernetes, Google Cloud, AWS  
-Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs. 
-Linux - Git, bash/zsh, sge/torque/pbs, ansible.  
-Elasticsearch, SQL, Hadoop
+Python - jupyter, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
+R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
+Cloud ops - Docker, Kubernetes, Google Cloud, AWS
+Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs.
+Linux - Git, bash/zsh, sge/torque/pbs, ansible.
+Elasticsearch, SQL, Clickhouse
 
 Worked and led teams using kanban, scrum and test-driven development practices.
 
 Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
+
+
+
+## Professional Experience
+
+
+`Feb2017 - now`
+__Senior Data Scientist, Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
+
+
+`Feb2016 - Feb2017`
+__Manager, Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
+
+Projects:
+1) Advanced analytics & scientific computing
+
+I employ my knowledge of machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups.
+This includes models based on RF, SVM, xgboost (scikit-learn), vowpal wabbit applied on biomarker and genomics data, as well as applied deep learning approaches (Keras, Tensorflow) applied on MEDLINE data (22m records) plus clinical trial literature and data.
+Development follows an iterative and agile process, done in collaboration with scientist at all levels of the organization, and which requires a deep understanding of the domain as well as the technologies available. My broad background (medicine, ML, biomedical engineering) helps me to bridge these diverse skill sets and communicate across disciplines.
+
+2) [Open Targets](http://www.opentargets.org) liaison
+
+Working on computational biology and genomics analysis which leverage large scale human data sets with the goal of identify and prioritize new drug targets.
+Direct interactions with Open Targets members (the Wellcome Trust Sanger Institute, the European Bioinformatics Institute, and GSK) and Biogen scientists.
+Manage and influence the scientific program working to enhance its quality and matching the Open Targets capabilities to Biogen needs. This work has resulted in several collaborations approved and funded by Open Targets that benefit Biogen.
+I routinely represent Biogen externally, including speaking invitations at informatics and scientific venues.
+
+3) Development of the [Open Targets Platform](https://www.targetvalidation.org)
+
+I am one of the team lead, responsible to plan and manage the work of 2 Biogen and 6 EBI software engineers including weekly planning and engineering duties.
+I manage the long-range planning and decision-making, including creating and owning the de facto Open Targets informatics platform roadmap, and making sure the team adopts the tool and process. This has directly resulted in new features important to Biogen in 2016’s Open Targets informatics platform releases.
+
+4) Biogen's principal liaison for the  and [Genomics England discovery forum](https://www.genomicsengland.co.uk/working-with-industry/)
+
+Advised Genomics England industrial strategy as part of the GENE consortium together with VPs and Directors from AZ, GSK, Takeda, Abbvie, Alexion and others.
+
+
+`2015-2016`
+__ML Scientist, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
+
+- Statistical analysis of microbiome communities during fecal transplant delivery by capsule
+- Project consulting for large pharma organization to analyze prevalence of drug resistant genes in the general population
+- Retrospective analysis of Phase 2b trial results and additional microbiome sequencing to measure efficacy
+
+
+`2014-2015`
+__Chief Scientist, Klappo/um.ai,__ London,UK
+
+- Building a recommendations engine to craft context-aware suggestions for every meal.
+- Normalization and concept mapping used to organize natural language data related to food onto a structured ontology
+- Data [analysis and visualization](https://elipapa.github.io/youarewhatyoueat/)
+- management team responsible for the business plan and investor relations
+- medical and scientific direction
+
+
+`2014`
+__Junior Doctor, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__,North West London, UK
+
+- General Practice
+- Care of Elderly, orthopaedic outreach
+- Anaesthetics & ITU
+- Gastroenterology & Acute medical take
+
+
+`2013`
+__Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
+
+- Integrating Chip-seq, RNAseq and transcriptomics data describing nitrogen stress response in e.coli
+- Organized query with a relational db, structured ontology and visualization
+- Bayesian model selection of potential e.coli nitrogen stress pathways
+
+`2012`
+__Consultant, SERES Health,__ Cambridge, MA (remote)
+
+- Computationally designed and predicted fitness of synthetic microbial communities intended for therapeutic transplantation using unsupervised/supervised learning..
+- Provided strategic input and scientific advice.
+
+
+`2009-2013`
+__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
+
+- [Supervised classification of microbiome samples](http://nbviewer.jupyter.org/github/elipapa/SLiMEbook/blob/master/SLiMEbook.ipynb) from pediatric IBD patients
+- Feature extraction using ecological and phylogenetic information
+- Quality control and downstream analysis of Human Microbiome Project sequencing pipeline
+
+`2009`
+__Founder, Enumeral diagnostics,__ Cambridge, MA
+
+- MIT $100K Entrepeneurship competition semifinalist
+- Developed high-throughput data acquisition and analysis platforms, scaling the technology to production levels.
+- Contributed to the development of the microfluidic platform at the core of the company intellectual property
+
+`2006-2009`
+__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
+
+- Unsupervised learning to map affinity and isotype of secreted antibodies in individual primary B cells.
+- Describing immune response progression by statistical modelling of the B cell population
+- Created a cluster pipeline to automate image analysis of fluorescence microscopy data
+- Murine antibody cloning and expression; fluorescence tagging
+- Real time fluorescence microcopy; advanced image analysis
+
+
+`2004-2005`
+__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
+
+- Nanoparticles cytotoxicity
+- Quantum Dots characterization (TEM, Absorption, PL, X-IRD)
+- Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
+
+
+`2003`
+__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
+
+- Morphological, mechanical and functional characterization of polyurethane scaffolds for tissue engineering applications.
+
 
 ## Education
 
@@ -71,114 +196,6 @@ Mechanical Engineering
 `2005`
 __BASc (Honors), University of Toronto__
 Engineering Science, Biomedical Option
-
-
-## Professional Experience
-
-
-`Feb2017 - now`
-__Senior Data Scientist, Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
-
-
-`Feb2016 - Feb2017`
-__Manager, Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
-
-Projects:  
-1) Advanced analytics & scientific computing
-
-- Machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups.  
-Including RF, SVM, xgboost, vowpal wabbit for on biomarker and genomics data, as well as applied deep learning approaches (Keras, Tensorflow) applied on MEDLINE data  plus clinical trial literature and data.  
-
-2) [Open Targets](http://www.opentargets.org) liaison
-
-- Computational biology and genomics analysis on large scale human data sets with the goal of identify and prioritize new drug targets.   
-- Manage interactions with Open Targets members (the Wellcome Trust Sanger Institute, the European Bioinformatics Institute, and GSK) and Biogen scientists.   
-- Manage and influence the scientific program working to enhance its quality and matching the Open Targets capabilities to Biogen needs. 
-
-3) Development of the [Open Targets Platform](https://www.targetvalidation.org) 
-
-4) Biogen's principal liaison for the  and [Genomics England discovery forum](https://www.genomicsengland.co.uk/working-with-industry/)
-
-
-
-`2015-2016`
-__Data Scientist, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
-
-- Statistical analysis of microbiome communities during fecal transplant delivery by capsule
-- Project consulting for large pharma organization to analyze prevalence of drug resistant genes in the general population
-- Retrospective analysis of Phase 2b trial results and additional microbiome sequencing to measure efficacy
-
-
-`2014-2015`
-__Chief Scientist, Klappo,__ London,UK
-
-- tech startup focused on semantic technologies, cognitive computing, machine learning to craft context-aware food recommendations.
-- management team responsible for the business plan and investor relations
-- medical and scientific direction
-
-
-`2014`
-__Doctor, Senior house officer, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Ealing Hospital, London, UK
-
-- General Practice
-
-`2013-2014`
-__Doctor, House officer, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, Hillingdon Hospital, Uxbridge, Middlesex, UK
-
-- Care of Elderly, orthopaedic outreach
-- Anaesthetics & ITU
-- Gastroenterology & Acute medical take
-
-
-`2013`
-__Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
-
-- Integrative analysis of nitrogen stress response in e.coli
-- Chip-seq, RNAseq and transcriptomics data
-
-`2012`
-__Consultant, SERES Health,__ Cambridge, MA (remote)
-
-- Computationally designed and predicted fitness of synthetic microbial communities intended for therapeutic transplantation.
-- Provided strategic input and scientific advice.
-
-
-`2009-2013`
-__Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
-
-- Machine learning for the analysis of Human Microbiome Project genomics data
-- Microbial evolution, phylogenetics
-
-`2009`
-__Founder, Enumeral diagnostics,__ Cambridge, MA
-
-- MIT $100K Entrepeneurship competition semifinalist
-- Developed high-throughput data acquisition and analysis platforms, scaling the technology to production levels.
-- Contributed to the development of the microfluidic platform at the core of the company intellectual property
-
-`2006-2009`
-__Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
-
-- Affinity and isotype mapping of antibody secretion in individual primary B cells.
-- Development of computational and statistical tools to monitor and predict evolution of immune responses
-- Murine antibody cloning and expression; fluorescence tagging
-- Real time fluorescence microcopy; advanced image analysis
-
-
-`2004-2005`
-__Biomedical Nanotechnology Group, Prof. W C. Chan__, University of Toronto
-
-- Nanoparticles cytotoxicity
-- Quantum Dots synthesis and characterization (TEM, Absorption, PL, X-IRD)
-- Real time fluorescence microscopy, single molecule spectroscopy and biophysics.
-
-
-`2003`
-__Biomaterials Group, Prof. M.C.Tanzi__, Politecnico di Milano, Italy
-
-- Synthesis of biocompatible polymeric scaffolds for tissue engineering applications.
-- Morphological, mechanical and functional characterization of polyurethane scaffolds.
-
 
 
 ## Fellowships & Awards
@@ -225,13 +242,13 @@ Ontario Scholar, Government of Ontario, Canada
 
 ## Computing skills
 
-Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
-R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.  
-Web development - HTML/CSS/JS, D3, dc.js, crossfilter.  
+Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
+R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
+Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
 Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.
-Cloud computing - AWS, Google cloud  
-DevOps - Kubernetes, Ansible  
-Familiar with agile and test-driven development.  
+Cloud computing - AWS, Google cloud
+DevOps - Kubernetes, Ansible
+Familiar with agile and test-driven development.
 
 
 ## Publications
@@ -241,22 +258,14 @@ Familiar with agile and test-driven development.
 ### Journals
 
 `2017`
-Koscielny G, An P, Carvalho-Silva D, Cham JA, Fumis L, Gasparyan R, Hasan S,
-Karamanis N, Maguire M, *Papa E*, Pierleoni A, Pignatelli M, Platt T, Rowland F,
-Wankar P, Bento AP, Burdett T, Fabregat A, Forbes S, Gaulton A, Gonzalez CY,
-Hermjakob H, Hersey A, Jupe S, Kafkas Ş, Keays M, Leroy C, Lopez FJ, Magarinos
-MP, Malone J, McEntyre J, Munoz-Pomer Fuentes A, O'Donovan C, Papatheodorou I,
-Parkinson H, Palka B, Paschall J, Petryszak R, Pratanwanich N, Sarntivijal S,
-Saunders G, Sidiropoulos K, Smith T, Sondka Z, Stegle O, Tang YA, Turner E,
-Vaughan B, Vrousgou O, Watkins X, Martin MJ, Sanseau P, Vamathevan J, Birney E,
-Barrett J, Dunham I.  
+Koscielny G, An P, Carvalho-Silva D, Cham JA, Fumis L, Gasparyan R, Hasan S, Karamanis N, Maguire M, *Papa E*, Pierleoni A, Pignatelli M, Platt T [...] Birney E, Barrett J, Dunham I.
 [Open Targets: a platform for therapeutic target identification and validation.](https://www.ncbi.nlm.nih.gov/pubmed/27899665) **Nucleic Acids Res**. 2017 Jan 4;45(D1):D985-D994.
 doi: 10.1093/nar/gkw1055. PubMed PMID: 27899665; PubMed Central PMCID:
 PMC5210543.
 
 `2017`
-Fischer M, Bittar M, *Papa E*, Kassam Z, Smith M.  
-[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
+Fischer M, Bittar M, *Papa E*, Kassam Z, Smith M.
+[Can You Cause Inflammatory Bowel Disease with Fecal Transplantation?](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
  **Gut Microbes** 2017 Jan 19:0. doi: 10.1080/19490976.2017.1283469
 
 
@@ -311,7 +320,7 @@ Open Targets : a platform for therapeutic target identification and validation
 
 `2016`
 Miguel Pignatelli, Denise Carvalho-Silva, Jennifer Cham, Luca Fumis, Samiul Hasan,
-Nikiforos Karamanis, Gautier Koscielny , Michael Maguire, William Newell, Eliseo Papa, Andrea Pierleoni, Francis Rowland, Sirarat Sarntivijal, Oliver Stegle, Jessica Vamathevan, Ewan Birney, Jeffrey Barrett, Ian Dunham and the Open Targets team  
+Nikiforos Karamanis, Gautier Koscielny , Michael Maguire, William Newell, Eliseo Papa, Andrea Pierleoni, Francis Rowland, Sirarat Sarntivijal, Oliver Stegle, Jessica Vamathevan, Ewan Birney, Jeffrey Barrett, Ian Dunham and the Open Targets team
 Target Validation Platform: A New Drug Target Identification and Prioritisation Web Platform
 *Genome informatics 2016*
 
