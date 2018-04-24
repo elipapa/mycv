@@ -48,19 +48,6 @@ Machine learning for biomarker identification - human microbiome and immune cell
 Medicine - anesthesia, genetics, general medicine
 
 
-### Computing
-
-Python - jupyter, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
-R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
-Cloud ops - Docker, Kubernetes, Google Cloud, AWS
-Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs.
-Linux - Git, bash/zsh, sge/torque/pbs, ansible.
-Elasticsearch, SQL, Clickhouse
-
-Worked and led teams using kanban, scrum and test-driven development practices.
-
-Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
-
 
 
 ## Professional Experience
@@ -198,6 +185,21 @@ __BASc (Honors), University of Toronto__
 Engineering Science, Biomedical Option
 
 
+### Computing
+
+Python - jupyter, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
+R - ML view: gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
+Cloud ops - Docker, Kubernetes, Google Cloud, AWS
+Web development - working knowledge of HTML/CSS/JS, D3, dc.js, crossfilter. Strong experience with REST APIs.
+Linux - Git, bash/zsh, sge/torque/pbs, ansible.
+Elasticsearch, SQL, Clickhouse
+
+Worked and led teams using kanban, scrum and test-driven development practices.
+
+Contributor to open source projects: [open targets](https://github.com/opentargets) , [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
+
+
+
 ## Fellowships & Awards
 
 `2012`
@@ -239,16 +241,6 @@ Silver T – academic athletic excellence, University of Toronto
 `2001`
 Ontario Scholar, Government of Ontario, Canada
 
-
-## Computing skills
-
-Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
-R - gbm, lasso, randomforest, etc.; ggplot2, knitr, shiny.
-Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
-Linux - Git, bash/zsh, sge/torque/pbs, docker/vagrant.
-Cloud computing - AWS, Google cloud
-DevOps - Kubernetes, Ansible
-Familiar with agile and test-driven development.
 
 
 ## Publications
