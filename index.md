@@ -28,6 +28,7 @@ while(x=eval(x));
 | <a href="http://elipapa.github.io">elipapa.github.io</a>
 | <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
 | <a href="http://github.com/elipapa">GitHub</a>
+| <a href="https://medium.com/@elipapa">Medium</a>
 </div>
 
 
@@ -52,16 +53,16 @@ Medicine - anesthesia, genetics, general medicine
 
 ### Computing
 
-Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.
-Cloud ops - Docker, Kubernetes, Google Cloud, AWS
-R - gbm, lasso, randomforest and other applied ML packages; ggplot2, knitr, shiny.
-Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
-Linux - Git, bash/zsh, sge/torque/pbs
+Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
+Cloud ops - Docker, Kubernetes, Google Cloud, AWS  
+R - gbm, lasso, randomforest and other applied ML packages; ggplot2, knitr, shiny.  
+Web development - HTML/CSS/JS, D3, dc.js, crossfilter.  
+Linux - Git, bash/zsh, sge/torque/pbs  
 SQL
 
 Worked and led teams using kanban, scrum and test-driven development practices.
 
-Contributor to open source projects: [open targets](https://github.com/opentargets), [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi)
+Contributor to open source projects: [open targets](https://github.com/opentargets), [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi), [airflow](https://github.com/apache/incubator-airflow/pulls)
 
 
 ## Work
@@ -237,7 +238,7 @@ Optimization of the surfaces used to capture antibodies from single hybridomas r
 ### Patents
 
 `2009`
-Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279
+Composition of an Array of Microwells with an Integrated Microfluidic System, [US8569046B2](https://patents.google.com/patent/US8569046B2/en?inventor=eliseo+papa&oq=eliseo+papa)
 
 
 

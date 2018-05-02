@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Eliseo Papa CV
+title: Eliseo Papa - CV
 ---
 # Eliseo Papa
 Senior data scientist and clinician working in Drug Discovery, with a background in biomedical engineering
@@ -357,7 +357,7 @@ Multi-variate profiling of B cell immune responses
 ### Patents
 
 `2009`
-Composition of an Array of Microwells with an Integrated Microfluidic System, USA Serial No. 12/390279
+Composition of an Array of Microwells with an Integrated Microfluidic System, [US8569046B2](https://patents.google.com/patent/US8569046B2/en?inventor=eliseo+papa&oq=eliseo+papa)
 
 
 
