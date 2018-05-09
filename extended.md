@@ -3,7 +3,7 @@ layout: cv
 title: Eliseo Papa - CV
 ---
 # Eliseo Papa
-Senior data scientist and clinician working in Drug Discovery, with a background in biomedical engineering
+Senior data scientist and clinician working on AI applied to Drug Discovery. Background in biomedical engineering and bioinformatics.
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -28,8 +28,17 @@ while(x=eval(x));
 | <a href="http://elipapa.github.io">elipapa.github.io</a>
 | <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
 | <a href="http://github.com/elipapa">GitHub</a>
+| <a href="https://medium.com/@elipapa">Medium</a>
 </div>
 
+<!-- notable accomplishments - ie. projects completed
+
+link.opentargets.io
+library-beam
+www.targetvalidation.org
+pnas paper
+microbiome analysis for finch/seres
+ -->
 
 ### Experienced in
 
@@ -37,9 +46,11 @@ Machine learning, python and data engineering architecture - delivering producti
 
 Leading academic/industrial research collaborations, managing multi-year scientific projects, writing funding grants, leading product decisions in a software team.
 
+[Knowledge graph learning from text](https://link.opentargets.io)
+
 Analysis of clinical trial data - current and retrospective analysis up to Phase 2b
 
-Drug target identification and prioritization - Genetics, integrative and network-based approaches
+[Drug target identification and prioritization](https://www.targetvalidation.org) - Genetics, integrative and network-based approaches
 
 Sequencing analysis - QC pipelines and statistical analysis of 16S and RNA-seq experiments
 

@@ -3,7 +3,7 @@ layout: cv
 title: Eliseo Papa - Resume
 ---
 # Eliseo Papa
-Senior data scientist and clinician working in Drug Discovery, with a background in biomedical engineering
+Senior data scientist and clinician working on AI applied to Drug Discovery. Background in biomedical engineering and bioinformatics.
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -31,6 +31,14 @@ while(x=eval(x));
 | <a href="https://medium.com/@elipapa">Medium</a>
 </div>
 
+<!-- notable accomplishments - ie. projects completed
+
+link.opentargets.io
+library-beam
+www.targetvalidation.org
+pnas paper
+microbiome analysis for finch/seres
+ -->
 
 ### Experienced in
 
@@ -55,12 +63,12 @@ Medicine - anesthesia, genetics, general medicine
 
 Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
 Cloud ops - Docker, Kubernetes, Google Cloud, AWS  
-R - gbm, lasso, randomforest and other applied ML packages; ggplot2, knitr, shiny.  
+R - applied ML packages; ggplot2, knitr, shiny.  
 Web development - HTML/CSS/JS, D3, dc.js, crossfilter.  
 Linux - Git, bash/zsh, sge/torque/pbs  
 SQL
 
-Worked and led teams using kanban, scrum and test-driven development practices.
+Worked in and led teams using kanban, scrum and test-driven development practices.
 
 Contributor to open source projects: [open targets](https://github.com/opentargets), [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi), [airflow](https://github.com/apache/incubator-airflow/pulls)
 
@@ -68,11 +76,11 @@ Contributor to open source projects: [open targets](https://github.com/opentarge
 ## Work
 
 `Feb2017 - now`
-__Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
+__Senior Data Scientist, Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
 
 
 `Feb2016 - Feb2017`
-__Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
+__Manager, Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
 
 Concurrent projects:
 1) Advanced analytics & scientific computing
