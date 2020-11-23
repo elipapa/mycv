@@ -3,6 +3,7 @@ layout: cv
 title: Eliseo Papa - Resume
 ---
 # Eliseo Papa
+
 Senior data scientist and clinician working on AI applied to Drug Discovery. Background in biomedical engineering and bioinformatics.
 
 <div id="webaddress">
@@ -58,7 +59,6 @@ Machine learning for biomarker identification - human microbiome and immune cell
 
 Medicine - anesthesia, genetics, general medicine
 
-
 ### Computing
 
 Python - ipython, scikit-learn, numpy, matplotlib, seaborne, pandas, lxml, NLTK, requests, sqlite3.  
@@ -68,26 +68,40 @@ Web development - HTML/CSS/JS, D3, dc.js, crossfilter.
 Linux - Git, bash/zsh, sge/torque/pbs  
 SQL
 
-Worked in and led teams using kanban, scrum and test-driven development practices.
+Product & engineer manager in an agile team.
 
 Contributor to open source projects: [open targets](https://github.com/opentargets), [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi), [airflow](https://github.com/apache/incubator-airflow/pulls)
 
-
 ## Work
 
-`Feb2017 - now`
-__Senior Data Scientist, Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
+`Oct2020 - now`
+__Director AI Engineering, [AstraZeneca](http://www.astrazeneca.com)__
 
+`Oct2018 - Oct2020`
+__AI & Data Science Lead, [AstraZeneca](http://www.astrazeneca.com)__
+
+- Fast-paced hiring to kickstart and scale an AI team within R&D IT.
+- Leading separate teams dedicated to:
+  - using BERT language-based models in NLP to extract relationship from biomedical literature
+  - build a large-scale knowledge graph with internal data
+  - pilot the use of graph learning representation and graph ML for target identification, repurposing and recommender systems.
+
+I was hired to build a Data Science team focussed on building and exploiting knowledge graphs for target recommendations. Our aim is to make the job of the drug discovery scientist faster and more successful using AI/Machine learning and robust data science tools.
+Joining a large corporation, it was imperative to build the right "maker" culture where the team could be given the autonomy to start small, build things fast and scale them. In less than six months, I rewrote the interview process, established new ways of working and directly contributed code to new projects. The team is now more than 15 people, regularly releasing the results of machine learning pipeline for the use of our scientists and participating in pipeline decisions. I learned a lot: from how to train NLP transformer models to interviewing effectively, managing data science projects in an applied research setting and run projects at scale.
+
+
+`Feb2017 - Oct2018`
+__Senior Data Scientist, Translational Advanced Analytics, [Biogen](http://www.biogen.com)__
 
 `Feb2016 - Feb2017`
 __Manager, Digital Health Technology & Data Science, [Biogen](http://www.biogen.com)__
 
 Concurrent projects:
+
 1) Advanced analytics & scientific computing
 
 I employ my knowledge of machine learning, python and data engineering architecture to deliver production-grade analysis pipeline to Biogen's computational biology group, statistical genetics group and early discovery groups.
 This includes models based on RF, SVM, xgboost (scikit-learn), vowpal wabbit applied on biomarker and genomics data, as well as applied deep learning approaches (Keras, Tensorflow) applied on MEDLINE data (22m records) plus clinical trial literature and data.
-
 
 2) [Open Targets](http://www.opentargets.org) liaison
 
@@ -104,16 +118,12 @@ I manage the long-range planning and decision-making, including creating and own
 
 Participated and contributed to the Genomics England GENE consortium together with VPs and Directors from AZ, GSK, Takeda, Abbvie, Alexion and others.
 
-
-
 `Apr2015 - Feb2016`
 __ML Analyst, [OpenBiome](http://www.openbiome.org) / [Finch Therapeutics](http://www.finchtherapeutics.com)__ Cambridge,MA (remote)
 
 - Statistical analysis of microbiome communities during fecal transplant delivery by capsule
 - Project consulting for large pharmaceutical to analyze prevalence of drug resistant genes in the general population
 - Retrospective analysis of Phase 2b trial results and additional microbiome sequencing to measure efficacy
-
-
 
 `Sep2014-Jun2016`
 __Chief Scientist, Klappo/um.ai,__ London,UK
@@ -124,14 +134,12 @@ __Chief Scientist, Klappo/um.ai,__ London,UK
 - Management team responsible for the business plan and investor relations
 - Medical and scientific direction
 
-
 `Aug2013-Dec2014`
 __Junior doctor, [Imperial College NHS Trust](http://www.imperial.nhs.uk/)__, London, UK
 
 - Anesthesia
 - Care of the elderly, palliative care
 - Gastroenterology
-
 
 `Jun2013`
 __Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
@@ -140,13 +148,11 @@ __Theoretical System Biology group, Prof. M. Stumpf__, Imperial College
 - Organized query with a relational db, structured ontology and visualization
 - Bayesian model selection of potential e.coli nitrogen stress pathways
 
-
 `May 2012 - Dec 2012`
 __Consultant, [SERES Health](http://www.flagshipventures.com/venture-capital/all-companies/seres-health),__ Cambridge, MA
 
 - Selection and fitness prediction of synthetic microbial communities intended for therapeutic transplantation using unsupervised/supervised learning.
 - Provided strategic input and scientific advice.
-
 
 `2009-Jun2012`
 __Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
@@ -155,13 +161,11 @@ __Alm Laboratory for Microbiology, Prof. Eric J. Alm__, MIT
 - Feature extraction using ecological and phylogenetic information
 - Quality control and downstream analysis of Human Microbiome Project sequencing pipeline
 
-
 `2009`
 __Founder, [Enumeral biomedical](http://www.enumeral.com/),__ Cambridge, MA
 
 - MIT $100K Entrepeneurship competition semifinalist
 - Contributed to the development of the microfluidic platform at the core of the company intellectual property
-
 
 `2006-2009`
 __Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
@@ -169,8 +173,6 @@ __Laboratory of Hidde L. Ploegh__, Whitehead Institute, MIT
 - Unsupervised learning to map affinity and isotype of secreted antibodies in individual primary B cells.
 - Describing immune response progression by statistical modelling of the B cell population
 - Created a cluster pipeline to automate image analysis of fluorescence microscopy data
-
-
 
 ## Education
 
@@ -192,12 +194,26 @@ Mechanical Engineering
 __BASc (Honors), University of Toronto__
 Engineering Science, Biomedical Option
 
-
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
+
+`2020`
+Ochoa, D., Hercules, A., Carmona, M., Suveges, D., Gonzalez-Uriarte, A., Malangone, C., Miranda, A., Fumis, L., Carvalho-Silva, D., Spitzer, M., Baker, J., Ferrer, J., Raies, A., Razuvayevskaya, O., Faulconbridge, A., Petsalaki, E., Mutowo, P., Machlitt-Northen, S., Peat, G., McAuley, E., Ong, C.K., Mountjoy, E., Ghoussaini, M., Pierleoni, A., **Papa, E.**, Pignatelli, M., Koscielny, G., Karim, M., Schwartzentruber, J., Hulcoop, D.G., Dunham, I., & McDonagh, E.M. (2020). Open Targets Platform: supporting systematic drug-target identification and prioritisation. Nucleic acids research.
+
+`2020`
+Ghoussaini, M., Mountjoy, E., Carmona, M., Peat, G., Schmidt, E., Hercules, A., Fumis, L., Miranda, A., Carvalho-Silva, D., Buniello, A., Burdett, T., Hayhurst, J.D., Baker, J., Ferrer, J., Gonzalez-Uriarte, A., Jupp, S., Karim, M., Koscielny, G., Machlitt-Northen, S., Malangone, C., Pendlington, Z.M., Roncaglia, P., Suveges, D., Wright, D., Vrousgou, O., **Papa, E.**, Parkinson, H., MacArthur, J.A., Todd, J., Barrett, J., Schwartzentruber, J., Hulcoop, D.G., Ochoa, D., McDonagh, E.M., & Dunham, I. (2020). Open Targets Genetics: systematic identification of trait-associated genes using large-scale genetics and functional genomics. Nucleic acids research.
+
+`2020`
+Jackson, R.J., Jansson, E., Lagerberg, A., Ford, E., Poroshin, V., Scrivener, T., Axelsson, M., Johansson, M., Franco, L.A., & **Papa, E.** (2020). Ablations over transformer models for biomedical relationship extraction. F1000Research, 9, 710.
+
+`2018`
+Carvalho-Silva, D., Pierleoni, A., Pignatelli, M., Ong, C.K., Fumis, L., Karamanis, N., Carmona, M., Faulconbridge, A., Hercules, A., McAuley, E., Miranda, A., Peat, G., Spitzer, M., Barrett, J., Hulcoop, D.G., **Papa, E.**, Koscielny, G., & Dunham, I. (2019). Open Targets Platform: new developments and updates two years on. Nucleic Acids Research, 47, D1056 - D1065.
+
+`2017`
+Karamanis, N., Carvalho-Silva, D., Cham, J.A., Fumis, L., Hasan, S., Hulcoop, D.G., Koscielny, G., Maguire, M., Newell, W., Ong, C., **Papa, E.**, Pierleoni, A., Pignatelli, M., Pundir, S., Rowland, F., Vamathevan, J., Watkins, X., Barrett, J.C., & Dunham, I. (2017). Designing an intuitive web application for drug discovery scientists. bioRxiv.
 
 `2017`
 Koscielny G, An P, Carvalho-Silva D, Cham JA, Fumis L, Gasparyan R, Hasan S,
@@ -210,7 +226,6 @@ doi: 10.1093/nar/gkw1055. PMC5210543.
 Fischer M, Bittar M, **Papa E**, Kassam Z, Smith M.
 [Can You Cause Inflammatory Bowel Disease with Fecal Transplantation? A 31-Patient Case-Series of Fecal Transplantation Using Stool from a Donor Who Later Developed Crohn's disease](http://www.tandfonline.com/doi/abs/10.1080/19490976.2017.1283469?journalCode=kgmi20)
  *Gut Microbes* 2017 Jan 19:0. doi: 10.1080/19490976.2017.1283469
-
 
 `2012`
 **Papa E**, Docktor M, Smillie C, Weber S, Preheim SP, Gevers D, Giannoukos G, Ciulla D, Tabbaa D, Ingram J, Schauer DB, Ward DV, Korzenik JR, Xavier RJ, Bousvaros A, Alm EJ.
@@ -242,13 +257,10 @@ Optimization of the surfaces used to capture antibodies from single hybridomas r
 [Profiling Antibody Responses by Multiparametric Analysis of Single B Cells.](http://www.pnas.org/content/105/46/17902.full)
 *PNAS* 2008 105(46):17902-7
 
-
 ### Patents
 
 `2009`
 Composition of an Array of Microwells with an Integrated Microfluidic System, [US8569046B2](https://patents.google.com/patent/US8569046B2/en?inventor=eliseo+papa&oq=eliseo+papa)
-
-
 
 ## Fellowships
 
@@ -261,11 +273,7 @@ Poitras pre-doctoral fellowship, MIT
 `2007`
 Martino Scholar, Harvard/MIT Health Science & Tech. Inst.
 
-
-
-
 ## Awards
-
 
 `2008`
 Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science & Tech. Inst.
@@ -273,12 +281,10 @@ Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health 
 `2008`
 Competition Semifinalist, MIT 100k Business Plan
 
-
 ## Volunteering
 
 `2005`
 Uganda Field operative, __[AISPO](http://www.aispo.org/), San Raffaele Foundation.__ Milan, Italy
-
 
 `2004`
 Conference delegate, __Engineers Without Borders__
