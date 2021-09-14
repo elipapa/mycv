@@ -69,7 +69,7 @@ Clinical medicine - anesthesia, genetics, general medicine
 Python - pytorch, DGL, DGL-KE, numpy, vega-lite, seaborne, pandas, lxml, spacy, requests.  
 Cloud ops - Docker, Kubernetes, Google Cloud, Azure cloud  
 R - reporting packages; ggplot2, knitr, shiny.  
-Web development - minimal knowledge of react, JSX, MDX
+Web development - minimal knowledge of react, JSX, MDX, dc.js
 Linux - Git, bash/zsh, sge/torque/pbs schedulers
 SQL - postgresql, sqlite3, clickhouse
 NoSQL - elasticsearch
@@ -213,6 +213,9 @@ A list is also available [on google scholar](http://scholar.google.co.uk/citatio
 ### Journals
 
 `2021`
+Gogleva, A., Polychronopoulos, D., Pfeifer, M., Poroshin, V., Ughetto, M., Sidders, B., Ahdesmäki, M., McDermott, U., **Papa, E.**, & Bulusu, K.C. (2021). Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer. bioRxiv.
+
+`2021`
 Ochoa, D., Hercules, A., Carmona, M., Suveges, D., Gonzalez-Uriarte, A., Malangone, C., Miranda, A., Fumis, L., Carvalho-Silva, D., Spitzer, M., Baker, J., Ferrer, J., Raies, A., Razuvayevskaya, O., Faulconbridge, A., Petsalaki, E., Mutowo, P., Machlitt-Northen, S., Peat, G., McAuley, E., Ong, C.K., Mountjoy, E., Ghoussaini, M., Pierleoni, A., **Papa, E.**, Pignatelli, M., Koscielny, G., Karim, M., Schwartzentruber, J., Hulcoop, D.G., Dunham, I., & McDonagh, E.M. (2021). Open Targets Platform: supporting systematic drug-target identification and prioritisation. Nucleic acids research.
 
 `2021`
@@ -291,8 +294,10 @@ Martino Scholar, Harvard/MIT Health Science & Tech. Inst.
 
 ## Awards
 
+`2020` Early Oncology AstraZeneca Award - driving innovation, Accelerating novel target discovery
+
 `2008`
-Martha Gray Prizes for Excellence in Research, Annual Forum, Harvard/MIT Health Science & Tech. Inst.
+Martha Gray Prizes for Excellence in Research, Harvard/MIT Health Science & Tech. Inst.
 
 `2008`
 Competition Semifinalist, MIT 100k Business Plan

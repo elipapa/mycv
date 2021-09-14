@@ -1,7 +1,6 @@
-#my CV
+# my CV
 
-this is a branch that I create for my own CV, not published on github
-I do keep a private repo on bitbucket however.
+this is a branch that I create for my own CV.
 
 if I make any changes to the CSS here, I should replicate them into the master branch. Basically:
 
@@ -9,19 +8,15 @@ if I make any changes to the CSS here, I should replicate them into the master b
   git checkout eliseop -- file1.css file2.css
   git commit -m "pulled the css files from the personal branch"
 
-Otherwise I push this to bitbucket only:
-
-git push -u personal
-
 ***
 
 I made a little makefile that to help me on my local machine. Simply, to let jekyll build the last version of the cv:
 
-	make cv
+ make cv
 
 To create the pdf files from the latest build of the cv:
 
-	make pdf
+ make pdf
 
 Everything is saved in the `_site` directory
 
