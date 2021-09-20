@@ -212,6 +212,8 @@ A list is also available [on google scholar](http://scholar.google.co.uk/citatio
 
 ### Journals
 
+`2021` Edward Mountjoy, Ellen M. Schmidt, Miguel Carmona, Gareth Peat, Alfredo Miranda, Luca Fumis, James Hayhurst, Annalisa Buniello, Jeremy Schwartzentruber, Mohd Anisul Karim, Daniel Wright, Andrew Hercules, Eliseo Papa, Eric Fauman, Jeffrey C. Barrett, John A. Todd, David Ochoa, Ian Dunham, Maya Ghoussaini. An open approach to systematically prioritize causal variants and genes at all published human GWAS trait-associated loci. bioRxiv. <https://www.biorxiv.org/content/10.1101/2020.09.16.299271v2>
+
 `2021`
 Gogleva, A., Polychronopoulos, D., Pfeifer, M., Poroshin, V., Ughetto, M., Sidders, B., Ahdesmäki, M., McDermott, U., **Papa, E.**, & Bulusu, K.C. (2021). Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer. bioRxiv.
 
