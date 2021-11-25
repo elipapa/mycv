@@ -212,7 +212,8 @@ A list is also available [on google scholar](http://scholar.google.co.uk/citatio
 
 ### Journals
 
-`2021` Edward Mountjoy, Ellen M. Schmidt, Miguel Carmona, Gareth Peat, Alfredo Miranda, Luca Fumis, James Hayhurst, Annalisa Buniello, Jeremy Schwartzentruber, Mohd Anisul Karim, Daniel Wright, Andrew Hercules, Eliseo Papa, Eric Fauman, Jeffrey C. Barrett, John A. Todd, David Ochoa, Ian Dunham, Maya Ghoussaini. An open approach to systematically prioritize causal variants and genes at all published human GWAS trait-associated loci. bioRxiv. <https://www.biorxiv.org/content/10.1101/2020.09.16.299271v2>
+`2021`
+Mountjoy E, Schmidt EM, Carmona M, et al. An open approach to systematically prioritize causal variants and genes at all published human GWAS trait-associated loci. Nat Genet. 2021;53(11):1527-1533. doi:10.1038/s41588-021-00945-5
 
 `2021`
 Gogleva, A., Polychronopoulos, D., Pfeifer, M., Poroshin, V., Ughetto, M., Sidders, B., Ahdesmäki, M., McDermott, U., **Papa, E.**, & Bulusu, K.C. (2021). Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer. bioRxiv.
@@ -222,10 +223,6 @@ Ochoa, D., Hercules, A., Carmona, M., Suveges, D., Gonzalez-Uriarte, A., Malango
 
 `2021`
 Ghoussaini, M., Mountjoy, E., Carmona, M., Peat, G., Schmidt, E., Hercules, A., Fumis, L., Miranda, A., Carvalho-Silva, D., Buniello, A., Burdett, T., Hayhurst, J.D., Baker, J., Ferrer, J., Gonzalez-Uriarte, A., Jupp, S., Karim, M., Koscielny, G., Machlitt-Northen, S., Malangone, C., Pendlington, Z.M., Roncaglia, P., Suveges, D., Wright, D., Vrousgou, O., **Papa, E.**, Parkinson, H., MacArthur, J.A., Todd, J., Barrett, J., Schwartzentruber, J., Hulcoop, D.G., Ochoa, D., McDonagh, E.M., & Dunham, I. (2021). Open Targets Genetics: systematic identification of trait-associated genes using large-scale genetics and functional genomics. Nucleic acids research.
-
-`2020`
-Mountjoy, Edward and Schmidt, Ellen M and Carmona, Miguel and Peat, Gareth and Miranda, Alfredo and Fumis, Luca and Hayhurst, James and Buniello, Annalisa and Schwartzentruber, Jeremy and Karim, Mohd Anisul **Eliseo Papa** and others.
-Open Targets Genetics: An open approach to systematically prioritize causal variants and genes at all published human GWAS trait-associated loci, bioRxiv 2020
 
 `2020`
 Jackson, R.J., Jansson, E., Lagerberg, A., Ford, E., Poroshin, V., Scrivener, T., Axelsson, M., Johansson, M., Franco, L.A., & **Papa, E.** (2020). Ablations over transformer models for biomedical relationship extraction. F1000Research, 9, 710.
