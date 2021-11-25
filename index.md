@@ -213,6 +213,9 @@ A list is also available [on google scholar](http://scholar.google.co.uk/citatio
 ### Journals
 
 `2021`
+Rozemberczki, B., Bonner, S., Nikolov, A., Ughetto, M., Nilsson, S. and **Papa, E.**, 2021. A Unified View of Relational Deep Learning for Polypharmacy Side Effect, Combination Synergy, and Drug-Drug Interaction Prediction. arXiv preprint arXiv:2111.02916.
+
+`2021`
 Mountjoy E, Schmidt EM, Carmona M, et al. An open approach to systematically prioritize causal variants and genes at all published human GWAS trait-associated loci. Nat Genet. 2021;53(11):1527-1533. doi:10.1038/s41588-021-00945-5
 
 `2021`
